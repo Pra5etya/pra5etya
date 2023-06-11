@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi there 👋 you can call me Raka
+🔭 I’m currently working on some application
+✨ Interested in web-related stuffs, Data Analyst, Business Analyst, and Data Scientist
+🌱 I’m currently learning Web Stuff and many more
