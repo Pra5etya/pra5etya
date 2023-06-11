@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 Hi there 👋 you can call me Raka
-🔭 I’m currently working on some application
-✨ Interested in web-related stuffs, Data Analyst, Business Analyst, and Data Scientist
-🌱 I’m currently learning Web Stuff and many more
+- 🔭 I’m currently working on some web and analyst project
+- ✨ Interested in web-related stuffs, Data Analyst, Business Analyst, and Data Scientist
+- 🌱 I’m currently learning Web Stuff and analyst model
+- 👯 I’m looking to collaborate with people that expert on that field
+- 💬 You can ask me about data related stuff, so we can disscuss it together
