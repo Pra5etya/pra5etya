@@ -22,3 +22,5 @@ Hi there 👋 you can call me Raka
 - 🌱 I’m currently learning Web Stuff and analyst model
 - 👯 I’m looking to collaborate with people that expert on that field
 - 💬 You can ask me about data related stuff, so we can disscuss it together
+
+dask link: https://github.com/dask/dask-tutorial
