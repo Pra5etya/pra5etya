@@ -24,3 +24,4 @@ Hi there 👋 you can call me Raka
 - 💬 You can ask me about data related stuff, so we can disscuss it together
 
 dask tutorial: https://github.com/dask/dask-tutorial
+emoticon .md list: https://gist.github.com/rxaviers/7360908
