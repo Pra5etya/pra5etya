@@ -23,5 +23,6 @@ Hi there 👋 you can call me Raka
 - 👯 I’m looking to collaborate with people that expert on that field
 - 💬 You can ask me about data related stuff, so we can disscuss it together
 
-dask tutorial: https://github.com/dask/dask-tutorial
-emoticon .md list: https://gist.github.com/rxaviers/7360908
+dask tutorial: https://github.com/dask/dask-tutorial \
+emoticon .md list: https://gist.github.com/rxaviers/7360908 \
+sentiment analyst: https://www.kaggle.com/code/ankkur13/sentiment-analysis-nlp-wordcloud-textblob
