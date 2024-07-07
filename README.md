@@ -25,4 +25,5 @@ Hi there 👋 you can call me Raka
 
 dask tutorial: https://github.com/dask/dask-tutorial \
 emoticon .md list: https://gist.github.com/rxaviers/7360908 \
-sentiment analyst: https://www.kaggle.com/code/ankkur13/sentiment-analysis-nlp-wordcloud-textblob
+sentiment analyst: https://www.kaggle.com/code/ankkur13/sentiment-analysis-nlp-wordcloud-textblob \
+plotly: https://chatgpt.com/share/ddad91c9-4859-4799-83f8-324b42560db0
