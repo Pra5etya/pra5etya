@@ -22,8 +22,3 @@ Hi there 👋 you can call me Raka
 - 🌱 I’m currently learning Web Stuff and analyst model
 - 👯 I’m looking to collaborate with people that expert on that field
 - 💬 You can ask me about data related stuff, so we can disscuss it together
-
-dask tutorial: https://github.com/dask/dask-tutorial \
-emoticon .md list: https://gist.github.com/rxaviers/7360908 \
-sentiment analyst: https://www.kaggle.com/code/ankkur13/sentiment-analysis-nlp-wordcloud-textblob \
-plotly: https://chatgpt.com/share/ddad91c9-4859-4799-83f8-324b42560db0
