@@ -3,9 +3,9 @@ Hi there! 👋 I’m Prasetya  <br><br>
 I am a **Programmer and Data Enthusiast** with a strong passion for technology and data-driven insights. My expertise lies in **data analysis and data implementation** to create impactful solutions.
 
 ## 🔹 About Me  
-- 💻 Experienced in **programming and data fields**  
-- 📊 Enthusiastic about **data implementation analysis, provide insights data, model implementation, and AI implementation**
-- 🌱 Continuously learning and exploring **new technologies and analytical models**  
+- 💻 Experienced in **data fields**  
+- 📊 Enthusiastic about **data implementation, provide insights data, model implementation, and AI implementation**
+- 🌱 Continuously learning and exploring **new technologies and model implementation**  
 - 🤝 Open to collaboration on **tech-driven and data-oriented projects**  
 
 ## 🔹 Let’s Connect  
